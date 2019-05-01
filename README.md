@@ -16,10 +16,11 @@ In Salesforce Classic and Lightning Experience, you can search for files from th
 
 Files home lists the files you own and have access to, including files posted to feeds. Click a filter in the sidebar to see and search within that selection of files.
 
-Recent
-Owned by Me
-Shared with Me
-Following
+  * Recent
+ * Owned by Me
+ * Shared with Me
+ * Following
+
 In Salesforce Classic, you can also search for files using the Files search:
 
 Optionally, click a filter on the sidebar to restrict your search to a specific set of files.
@@ -28,7 +29,8 @@ Click Search to see a filtered list of all relevant files based on your search t
 In Lightning Experience, you can use the Files dropdown to see favorite and recent files.
 
 The recent files dropdown.
-Note
+
+#### Note
 NOTE The feed search returns the matches for file or link names shared in posts, but not in comments. Files searches don’t include:
 Documents from the Documents tab in Salesforce Classic.
 Attachments from Notes and Attachments related lists.
