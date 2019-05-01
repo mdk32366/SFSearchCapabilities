@@ -46,3 +46,10 @@ Text |	.c, .cpp, .css, .csv, .ini, .java, .log, .sql, .txt |	5 MB
 Word |	.doc, .docx, .docm |	25 MB
 XLS	| .xls, .xlsx, .xlsm |	5 MB
 XML	| .xml |	5 MB
+
+File Sharing Limits
+
+A file can be shared a maximum of 100 times. This count includes shares with records, people, and groups. If a file is approaching the maximum number of shares, consider creating a public link or making the file public by posting it to your feed.
+
+View the Shared With list on a file detail page to see who a file is shared with and their level of access.
+
