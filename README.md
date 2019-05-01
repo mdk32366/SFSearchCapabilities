@@ -8,8 +8,11 @@ In Salesforce Classic and Lightning Experience, you can search for files from th
 
 #### File size	
 **_2 GB when uploaded via the web interface_**
+
 **_100 MB when uploaded from a mobile device_**
+
 **_Maximum number of versions per file	2,048 versions_**
+
 
 Files home lists the files you own and have access to, including files posted to feeds. Click a filter in the sidebar to see and search within that selection of files.
 
