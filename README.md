@@ -1,9 +1,15 @@
 ### SFSearchCapabilities
 Clarifying and documenting what Search will and will not do (or index) in Salesforce (edition dependent of course).
 
+[Using Salesforce Files](https://help.salesforce.com/articleView?id=collab_files_overview.htm&type=5)
 [Search for Files](https://help.salesforce.com/articleView?id=collab_files_searching.htm&type=5)
 
 In Salesforce Classic and Lightning Experience, you can search for files from the header search field. Use feed search to find files posted in a specific Chatter feed, such as on a profile, on a record, or in a group.
+
+#### File size	
+**_2 GB when uploaded via the web interface_**
+**_100 MB when uploaded from a mobile device_**
+**_Maximum number of versions per file	2,048 versions_**
 
 Files home lists the files you own and have access to, including files posted to feeds. Click a filter in the sidebar to see and search within that selection of files.
 
